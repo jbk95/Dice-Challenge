@@ -39,3 +39,13 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+@media (max-width:900px) {
+  h1 {
+    font-size: 4rem;
+  }
+
+  img {
+    width: 40%;
+  }
+}
